@@ -29,6 +29,7 @@ Mi enfoque integra ciencia de datos, ingeniería química y automatización para
 
 ### **Nube**
 - Google Cloud (BigQuery, Compute Engine, Functions)
+- AWS basico
 
 ### **Visualización**
 - Power BI | Looker Studio | Matplotlib | Seaborn
@@ -69,8 +70,7 @@ ETL + visualización en Looker Studio y Power BI para análisis de tendencias y 
 
 📧 **Correo:** jhon971014@gmail.com  
 🔗 **LinkedIn:** [Jhon Stiven Ríos Garzón](https://www.linkedin.com/in/jhonstivenríosgarzón)  
-📂 **Portafolio:** *(puedo ayudarte a crearlo si lo deseas)*
-
+📂 **Portafolio:**
 ---
 
 ## ⭐ ¿Te gusta mi trabajo?
